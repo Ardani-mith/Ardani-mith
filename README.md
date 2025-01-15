@@ -4,17 +4,17 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- Add a brief description about yourself -->
-I am a passionate software developer with a special interest in {{ your_field_of_interest }}. Currently, I am working on the project {{ project_name }} which aims to {{ project_goal }}.
+I am a passionate software developer with a special interest in Tech. Currently, I am working on the project Sols which aims to SolsDev.
 
 <!-- Add a list of skills or technologies you are proficient in -->
-## 🛠️ Skills & Technologies
+<!-- ## 🛠️ Skills & Technologies
 - 💻 {{ programming_language_1 }}, {{ programming_language_2 }}, {{ programming_language_3 }}
 - 🌐 {{ web_technology_1 }}, {{ web_technology_2 }}, {{ web_technology_3 }}
 - 🗄️ {{ database_1 }}, {{ database_2 }}
-- ☁️ {{ cloud_platform_1 }}, {{ cloud_platform_2 }}
+- ☁️ {{ cloud_platform_1 }}, {{ cloud_platform_2 }} -->
 
 <!-- Add a section for your featured projects -->
-## 🌟 Featured Projects
+<!-- ## 🌟 Featured Projects -->
 <!-- - [{{ project_name_1 }}]({{ project_link_1 }}) - {{ short_description_project_1 }}
 - [{{ project_name_2 }}]({{ project_link_2 }}) - {{ short_description_project_2 }}
 - [{{ project_name_3 }}]({{ project_link_3 }}) - {{ short_description_project_3 }} -->
