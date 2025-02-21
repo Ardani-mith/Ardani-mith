@@ -13,8 +13,8 @@
   </thead>
   <tbody>
     <tr>
-      <td class="w-full">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardani-mith&theme=tokyonight" alt="Top Languages">
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardani-mith&theme=tokyonight&width=800" alt="Top Languages">
       </td>
     </tr>
   </tbody>
