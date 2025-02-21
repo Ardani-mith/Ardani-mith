@@ -3,13 +3,13 @@
 <div align="center">
 
   <!-- Stat Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ardani-mith&show_icons=true&theme=tokyonight" alt="Ardani GitHub Stats" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ardani-mith&show_icons=true&theme=tokyonight" alt="Ardani GitHub Stats" width="30%">
 
   <!-- Custom Stat Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ardani-mith&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" alt="GitHub Stars" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ardani-mith&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" alt="GitHub Stars" width="30%">
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardani-mith&theme=tokyonight" alt="Top Languages" width="90%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardani-mith&theme=tokyonight" alt="Top Languages" width="60%">
 
 </div>
 
