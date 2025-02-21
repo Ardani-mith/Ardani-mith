@@ -6,6 +6,9 @@
       <th>
         <img src="https://github-readme-stats.vercel.app/api?username=Ardani-mith&show_icons=true&theme=tokyonight" alt="Ardani GitHub Stats">
       </th>
+      <th>
+        <img src="https://github-readme-stats.vercel.app/api?username=Ardani-mith&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" alt="GitHub Stars">
+      </th>
     </tr>
   </thead>
   <tbody>
