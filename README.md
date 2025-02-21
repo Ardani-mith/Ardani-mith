@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ardani-mith&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" alt="GitHub Stars" width="32.5%">
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardani-mith&theme=tokyonight" alt="Top Languages" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardani-mith&theme=tokyonight" alt="Top Languages" width="60%" height="30%">
 
 </div>
 
