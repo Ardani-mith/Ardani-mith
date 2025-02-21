@@ -21,7 +21,6 @@ I am a passionate software developer with a special interest in Tech. Currently,
 
 <!-- Add your GitHub stats using GitHub Readme Stats -->
 ## 📊 GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=Ardani-mith&show_icons=true&theme=radical)](https://github.com/Ardani-mith/github-readme-stats)
 (https://github-readme-stats.vercel.app/api/top-langs/?username=Ardani-mith&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Add how to contact you -->
